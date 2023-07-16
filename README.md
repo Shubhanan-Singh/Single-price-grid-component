@@ -1,0 +1,1 @@
+This is a Frontend Mentor challenge which uses html5 and Vanilla Css to make a single price grid component
